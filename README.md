@@ -15,6 +15,7 @@ Once it's done, follow this invitation link :link:
 
 https://discord.gg/jJuWXfCh
 
+
 **WARNING** : This link is avaible only for **7 days** ! If you want another link, contact me at pierre-victor.landez@edu.devinci.fr
 
 
@@ -31,6 +32,9 @@ https://discord.gg/jJuWXfCh
 **4** - Install a few python librairies :books:
 
 **```pip install -U gspread oauth2client regex discord.py universities pandas scikit-learn```**
+
+Use this token in the main.py
+ODE4NzgyOTAwMTI3MjY4ODg0.YEdE_w.a4FZ7LQ3l5rv4-W2JVXVXW4BIUk
 
 **5** - Everything should be set ! You can run the Bot Universe :partying_face: 
 
