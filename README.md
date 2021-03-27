@@ -22,11 +22,15 @@ https://discord.gg/jJuWXfCh
 
 **1** - Download this project on your machine :arrow_down:  
 
-**3** - Open a CMD window :ballot_box_with_check: 
+**2** - Open a CMD window :ballot_box_with_check: 
 
-**4** - Go to the folder project on your machine  :open_file_folder:
+**3** - Go to the folder project on your machine  :open_file_folder:
 
 **```cd 'path_to_university_folder' ```**
+
+**4** - Install a few python librairies :books:
+
+```pip install -U gspread oauth2client regex discord.py universities pandas scikit-learn```
 
 **5** - Everything should be set ! You can run the Bot Universe :partying_face: 
 
