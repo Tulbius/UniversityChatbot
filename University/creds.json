@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "polished-zephyr-308914",
+  "private_key_id": "e97dc2d0955e3baa56d2024ef2cbc02ca9b19dd4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDhqlxTXzruFz3B\nGo6SgKptMloIRdiavme/JVcpfj8Ck1uSuHmqQNKk+flS6ihlt0wIXrbVOuhkvgt7\nlFhyZEiw+H+VOTYx0HiZagXalJ3NiMOPNsR8lvRE3nND+I/qplSrGPoRlNBzXWs/\n8d4MbMTh5qLkGqTm92+zkNKql4WOxj3EyvETCjl0pTps9ZzyGOSfV1pRv5vVis2i\ng8tCCgTf1D+9OmSYsgcVH8vOaBeGmOJvn4QXmXw+CHZvWYN7KB3fPN0JZIrQW2J+\nnuSJAOBPMnqAxYMOWg/azauM+MmtCN/RBiwu6JX8xklHjCvwizJrdCE3iOhae21L\n/kn2EB5tAgMBAAECggEAWKwwizIoXdYUFgTxcO/OCAp5Bjcr3eJjseBiV5Ob/s8Y\ndJa4eAXwv5LaPZJ1PULBRaix/yeembdzm6O2/XwadC+xMlnAyeI5AU9/7VvohhLv\nhR7oJmzKnyUp9dN9+Z5SNskhujbXkf1rXz0TG57B3mJaL3eoxHkGE3Ec1pujh23x\ngz5B6EaVWHhpGaE34Pys9a/QxeJ5lMQxH/7nSenOPvw8YpjJL6SLYBbQaDG3lU+8\nTa/G5asQ5+rQmrdsk/30fpU7W7XgoYVlSIkCfEY36qj47J8QdI40bAmFgGNT19Ac\nAHY+oD0Q0ByJXBeYUi/C6Q/xVgj7a92YcevQhuf+oQKBgQDwfw3xGlGEnhewP0XG\nUOWZzsfnUTNTQ15Q7aCsDYlVbCsyVTHMhmCsiv2Z4OZJX4hgQFf6ZXVoRzVYi/+H\ni5mRAt9kqQ8Mwz0/D9dRN0yfwFCaQ6BWL/3WvYMAXLe8tXkSvyH7tpq9ij08XZN6\nJjpT0xLgDl4TD5K5GKzYVCR8swKBgQDwNoz+UOm4G69Szoxu+6hgqU5AcgB6mf1Z\nHbRd3Wiql73GjwfC2m6rX5B+wvBFiJKFO3x1M/2Fa7GNA1JG5YLa1RxlrYsNDFeR\nwiRGXP10o95rrM1n150bqrZp4I8a2mpON6UNpt7kzWHoe+U+7zdKWONq7tmzSTqT\nHye/OX7IXwKBgCvyi9GrRYo+eYWzikSbM9nPd6hFpmNoxCt1wQ6vypDZm2svNlJx\nm+jr3TvpZSuzUXCFUY5oS/QqTw1HSAK09/MP21LBsgZbBy4m7ungeRgYRKJsCTi2\nvGQpbW77gnfxkZZjZwpgbBaG1Hnbf7+qjK4UvDZFaduB1QYOBEfj2GcRAoGAFaeV\nRkfdCe/U+k4McuTU5QHeQAkG6gZ/xEzdOakACoDrZr72ICa421IeII9KQbpyGvil\n25r4O9LdiqzF+gYuqbOUf8YJRv/Z1RX/VyiC4MT1BBfr3HSfgSL+lsTbobwW4T46\n7uQgK9gn/2FL5USDY3xn4/fsQDFVynWAi8iPGVkCgYEA1TGHDoPGT7RfENBZlcD3\n5w2k23iuyytdk2Fw7gNnvH/+ULqbhybaom2r+M5ChjGvuDt2JGgkSSJiTgvDO6eM\nMA/NNWNWSEo4hHGKPNmUn3QjX/+Pv0CfPxLvpoYH4ZIOd1Zj7k+CcHxH9xmpiEZV\n2iyMo+zqzP652LUdlOwp8zU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "universe@polished-zephyr-308914.iam.gserviceaccount.com",
+  "client_id": "109376208625902705931",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/universe%40polished-zephyr-308914.iam.gserviceaccount.com"
+}
