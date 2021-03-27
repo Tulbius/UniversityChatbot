@@ -22,10 +22,6 @@ https://discord.gg/jJuWXfCh
 
 **1** - Download this project on your machine :arrow_down:  
 
-**2** - Install a few python librairies :books:
-
-**```pip install -U gspread oauth2client regex discord.py universities pandas scikit-learn```**
-
 **3** - Open a CMD window :ballot_box_with_check: 
 
 **4** - Go to the folder project on your machine  :open_file_folder:
@@ -36,7 +32,7 @@ https://discord.gg/jJuWXfCh
 
 **```python main.py```**
 
-Universe is now connected to the server and everything is ready to be used ! :star_struck:
+Universe should now be connected to the server and everything is ready to be used ! :star_struck:
 
 ![image](https://user-images.githubusercontent.com/58121532/112734658-77c85600-8f47-11eb-9204-bb5cd3439b97.png)
 
