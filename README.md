@@ -9,7 +9,7 @@ This cool project was made by Sohana Hassanaly & Pierre-Victor Landez from ESILV
 
 To use our bot and visualize it working, if you don't already have one you have to create a Discord account :
 
-https://discord.com/
+https://discord.com/register
 
 Once it's done, follow this invitation link :
 
