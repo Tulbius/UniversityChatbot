@@ -33,9 +33,6 @@ https://discord.gg/jJuWXfCh
 
 **```pip install -U gspread oauth2client regex discord.py universities pandas scikit-learn```**
 
-Use this token in the main.py
-ODE4NzgyOTAwMTI3MjY4ODg0.YEdE_w.a4FZ7LQ3l5rv4-W2JVXVXW4BIUk
-
 **5** - Everything should be set ! You can run the Bot Universe :partying_face: 
 
 **```python main.py```**
