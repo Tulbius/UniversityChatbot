@@ -3,15 +3,15 @@
 A discord bot which can help you find information about all **universities**around the world.:earth_africa:
 This bot provide also a **recommendation system** to give you the top universities that fit you best. :mortar_board: 
 
-This cool project was made by Sohana Hassanaly & Pierre-Victor Landez from ESILV
+This cool project was made by Sohana Hassanaly & Pierre-Victor Landez from ESILV :woman_student: :man_student:
 
 # How to connect to Discord :computer: 
 
-To use our bot and visualize it working, if you don't already have one you have to create a Discord account :
+To use our bot and visualize it working, if you don't already have one you have to create a Discord account :writing_hand: 
 
 https://discord.com/register
 
-Once it's done, follow this invitation link :
+Once it's done, follow this invitation link :link: 
 
 https://discord.gg/jJuWXfCh
 
@@ -32,10 +32,10 @@ https://discord.gg/jJuWXfCh
 
 **```cd 'path_to_university_folder' ```**
 
-**5** - Everything should be set ! You can run the Bot Universe :star_struck: 
+**5** - Everything should be set ! You can run the Bot Universe :partying_face: 
 
 **```python main.py```**
 
-Universe is now connected to the server and everything is ready to be used !
+Universe is now connected to the server and everything is ready to be used ! :star_struck:
 
 
