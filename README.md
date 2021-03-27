@@ -1,6 +1,6 @@
 # UniversityChatbot
 
-A discord bot which can help you find information about all **universities**around the world.:earth_africa:
+A discord bot which can help you find information about all **universities** around the world.:earth_africa:
 This bot provide also a **recommendation system** to give you the top universities that fit you best. :mortar_board: 
 
 This cool project was made by Sohana Hassanaly & Pierre-Victor Landez from ESILV :woman_student: :man_student:
