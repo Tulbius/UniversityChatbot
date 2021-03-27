@@ -15,7 +15,7 @@ Once it's done, follow this invitation link :
 
 https://discord.gg/jJuWXfCh
 
-WARNING : This link is avaible only for 7 days ! If you want another link, contact me at pierre-victor.landez@edu.devinci.fr
+**WARNING** : This link is avaible only for **7 days** ! If you want another link, contact me at pierre-victor.landez@edu.devinci.fr
 
 
 # How to connect the Bot
@@ -30,11 +30,11 @@ WARNING : This link is avaible only for 7 days ! If you want another link, conta
 
 **4** - Go to the folder project on your machine :
 
-```cd 'path_to_university_folder' ```
+**```cd 'path_to_university_folder' ```**
 
 **5** - Everything should be set ! You can run the Bot Universe
 
-```python main.py```
+**```python main.py```**
 
 Universe is now connected to the server and everything is ready to be used !
 
