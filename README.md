@@ -20,19 +20,19 @@ WARNING : This link is avaible only for 7 days ! If you want another link, conta
 
 # How to connect the Bot
 
-1 - Download this project on your machine
+**1** - Download this project on your machine
 
-2 - Install a few python librairies :
+**2** - Install a few python librairies :
 
-```pip install -U gspread oauth2client regex discord.py universities pandas scikit-learn```
+**```pip install -U gspread oauth2client regex discord.py universities pandas scikit-learn```**
 
-3 - Open a CMD window
+**3** - Open a CMD window
 
-4 - Go to the folder project on your machine :
+**4** - Go to the folder project on your machine :
 
-```cd path_to_university_folder ```
+```cd 'path_to_university_folder' ```
 
-5 - Everything should be set ! You can run the Bot Universe
+**5** - Everything should be set ! You can run the Bot Universe
 
 ```python main.py```
 
