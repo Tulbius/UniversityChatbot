@@ -30,7 +30,7 @@ https://discord.gg/jJuWXfCh
 
 **4** - Install a few python librairies :books:
 
-```pip install -U gspread oauth2client regex discord.py universities pandas scikit-learn```
+**```pip install -U gspread oauth2client regex discord.py universities pandas scikit-learn```**
 
 **5** - Everything should be set ! You can run the Bot Universe :partying_face: 
 
