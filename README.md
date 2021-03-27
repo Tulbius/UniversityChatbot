@@ -20,7 +20,7 @@ https://discord.gg/jJuWXfCh
 
 # How to connect the Bot :robot: 
 
-**1** - Download this project on your machine :arrow_down_small: 
+**1** - Download this project on your machine :arrow_down:  
 
 **2** - Install a few python librairies :books:
 
