@@ -13,10 +13,8 @@ https://discord.com/register
 
 Once it's done, follow this invitation link :link: 
 
-https://discord.gg/jJuWXfCh
+https://discord.gg/Sd6gsF68Gu
 
-
-**WARNING** : This link is avaible only for **7 days** ! If you want another link, contact me at pierre-victor.landez@edu.devinci.fr
 
 
 # How to connect the Bot :robot: 
